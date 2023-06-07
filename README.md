@@ -1,13 +1,4 @@
-# Coreum Rust Task
 
-Thanks for taking the time to complete this task. The task is a real world problem, 
-trying to see how you translate business requirements into readable, maintainable code.
-
-A boilerplate is provided in `src/main.rs` to guide you through the development.
-Take a look at comments to understand what you need to do.
-Feel free to define new types if needed. 
-
-# What You Need To Do
 Implement `calculate_balance_changes` with the requirements mentioned in the comment of the function.
 
 ## Examples
